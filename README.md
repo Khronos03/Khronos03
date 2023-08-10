@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/josé alexander suaza montes](https://www.linkedin.com/in/jos%C3%A9-alexander-suaza-montes-a078b21a4/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé alexander suaza montes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-alexander-suaza-montes-a078b21a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé alexander suaza montes" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/alexander.suaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alexander.suaza" height="30" width="40" /></a>
 </p>
 
